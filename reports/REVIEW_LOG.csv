@@ -1,0 +1,5 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,xe bị cắt ở góc dưới phải,added,Chỉ vẽ box cho phần đuôi xe còn nhìn thấy trong ảnh theo GUIDELINE_LABEL.md
+1,frame_0107.jpg,vệt phản chiếu đèn trên mặt đường,deleted,Ánh đèn phản chiếu không phải xe nên xóa khung theo GUIDELINE_LABEL.md
+1,frame_0182.jpg,xe tối sát mép trái,edited,Kéo khung ôm sát thân xe và đèn không lấy vệt sáng pha theo GUIDELINE_LABEL.md
+1,frame_0187.jpg,xe con đi làn giữa phía trước,accepted,Khung AI dự đoán chính xác và ôm khít thân xe nên giữ nguyên
